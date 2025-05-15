@@ -32,8 +32,8 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Longest Increasing path](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
 - [Falling Path](https://leetcode.com/problems/minimum-falling-path-sum/)
 - [Triangle Sum](https://leetcode.com/problems/triangle)
+- [Maximum Sum Rectangle](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/)
 - [Maximum Square](https://leetcode.com/problems/maximal-square)
-- [Maximum Rectangle](https://leetcode.com/problems/maximal-rectangle)
 - [Count Squares](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
 
 ## 💬 Contributing
