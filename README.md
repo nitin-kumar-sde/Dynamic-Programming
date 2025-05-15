@@ -8,7 +8,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 ## 📚 Table of Contents
 
 - [🐇 1D DP](#1d-dp)
-- [🧰 DP on Grid](#dp-on-grids)
+- [🧰 DP on Grids](#dp-on-grids)
 
 
 
