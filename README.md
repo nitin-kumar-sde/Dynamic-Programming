@@ -8,6 +8,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 ## 📚 Table of Contents
 
 - [🐇 1D DP](#1d-dp)
+- [🧰 DP on Grid](#dp-on-grids)
 
 
 
@@ -22,6 +23,18 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Kadane Algorithm](https://leetcode.com/problems/maximum-subarray)
 - [Maximise no of R's](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/number-of-rs-1/)
 
+
+## 🧰DP on Grids
+- [Unique Paths](https://leetcode.com/problems/unique-paths-ii)
+- [Minimum Cost](https://leetcode.com/problems/minimum-path-sum)
+- [Cherry Pickup](https://leetcode.com/problems/cherry-pickup)
+- [Dungeon Game](https://leetcode.com/problems/dungeon-game)
+- [Longest Increasing path](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)
+- [Falling Path](https://leetcode.com/problems/minimum-falling-path-sum/)
+- [Triangle Sum](https://leetcode.com/problems/triangle)
+- [Maximum Square](https://leetcode.com/problems/maximal-square)
+- [Maximum Rectangle](https://leetcode.com/problems/maximal-rectangle)
+- [Count Squares](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
 
 ## 💬 Contributing
 
