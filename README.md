@@ -9,6 +9,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 
 - [🐇 1D DP](#1d-dp)
 - [🧰 DP on Grids](#dp-on-grids)
+- [🧵Dp on Subsequences](#dp-on-subsequences)
 
 
 
@@ -36,6 +37,35 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Maximum Rectangle of all 1s](https://leetcode.com/problems/maximal-rectangle)
 - [Maximum Square](https://leetcode.com/problems/maximal-square)
 - [Count Squares](https://leetcode.com/problems/count-square-submatrices-with-all-ones)
+
+
+## 🧵DP on Subsequences
+
+### 🔄Subsequences with target sum variants
+- [Count Subsets with given sum](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)
+- [Partition Array into equal sum](https://leetcode.com/problems/partition-equal-subset-sum)
+- [Minimum Difference Partition](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-)
+- [Number of Partitions with given difference](https://www.geeksforgeeks.org/problems/partitions-with-given-difference)
+- [Target Sum](https://leetcode.com/problems/target-sum)
+
+### 🧩Knapsack variants
+- [0/1 Knapsack](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
+- [Unbounded Knapsack](https://www.geeksforgeeks.org/unbounded-knapsack-repetition-items-allowed)
+- [Coin change 1](https://leetcode.com/problems/coin-change)
+- [Coin change 2](https://leetcode.com/problems/coin-change-ii)
+- [Rod cutting Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1)
+
+### 🧬LCS variants
+- [LCS](https://leetcode.com/problems/longest-common-subsequence)
+- [Printing LCS](https://www.geeksforgeeks.org/printing-longest-common-subsequence)
+- [LCS with given sum](https://www.geeksforgeeks.org/length-of-longest-common-subsequence-with-given-sum-k/)
+- [Longest Common Substring](https://www.geeksforgeeks.org/longest-common-substring-dp-29/)
+- [LPS](https://leetcode.com/problems/longest-palindromic-subsequence)
+- [Minimum insertions](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)
+- [Transformation](https://leetcode.com/problems/delete-operation-for-two-strings)
+- [Edit Distance](https://leetcode.com/problems/edit-distance)
+- [Shortest Supersequence](https://leetcode.com/problems/shortest-common-supersequence)
+- [Longest Repeating Subsequence](https://www.geeksforgeeks.org/longest-repeating-subsequence/)
 
 ## 💬 Contributing
 
