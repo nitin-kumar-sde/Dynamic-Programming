@@ -67,6 +67,28 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Shortest Supersequence](https://leetcode.com/problems/shortest-common-supersequence)
 - [Longest Repeating Subsequence](https://www.geeksforgeeks.org/longest-repeating-subsequence/)
 
+### 🎭Pattern matching variants
+- [Distinct Subsequences](https://www.geeksforgeeks.org/count-distinct-subsequences/)
+- [Count Common subsequences](https://www.geeksforgeeks.org/count-common-subsequence-in-two-strings/)
+- [Subsequences in given pattern](https://leetcode.com/problems/distinct-subsequences)
+- [Wildcard matching](https://leetcode.com/problems/wildcard-matching/)
+
+
+### 💰LIS variants
+- [LIS](https://leetcode.com/problems/longest-increasing-subsequence/description/)
+- [Number of LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+- [Largest Divisible subset](https://leetcode.com/problems/largest-divisible-subset/description/)
+- [Longest chain](https://leetcode.com/problems/longest-string-chain/description/)
+- [Longest Biotnic Subsequence](https://www.geeksforgeeks.org/longest-bitonic-subsequence-dp-15/)
+- [Longest chain with given difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)
+
+### 💹DP on Stocks variants
+- [Stock buy and sell 1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- [Stock buy and sell 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
+- [Stock buy and sell 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)
+- [Stock buy and sell with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
+- [Stock buy and sell with fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
+
 ## 💬 Contributing
 
 ✨ **We welcome contributions!** If you know good DP problems or want to improve this repo, please create a pull request.
