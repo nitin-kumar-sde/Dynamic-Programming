@@ -9,8 +9,10 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 
 - [🐇 1D DP](#1d-dp)
 - [🧰 DP on Grids](#dp-on-grids)
-- [🧵Dp on Subsequences](#dp-on-subsequences)
-
+- [🧵 DP on Subsequences](#dp-on-subsequences)
+- [🎸 DP on Partitions](#dp-on-partitions)
+- [⌛DP on Bitmask](#dp-on-bitmask)
+- [📊DP on Graphs](#dp-on-graphs)
 
 
 
@@ -89,6 +91,17 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Stock buy and sell 3](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)
 - [Stock buy and sell with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)
 - [Stock buy and sell with fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/)
+
+## 🎸DP on Partitions
+TBD
+
+## ⌛DP on Bitmask
+TBD
+
+## 📊DP on Graphs
+- [Diameter of Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+- [Max path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
+
 
 ## 💬 Contributing
 
