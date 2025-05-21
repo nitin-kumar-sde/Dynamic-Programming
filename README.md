@@ -66,6 +66,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Edit Distance](https://leetcode.com/problems/edit-distance)
 - [Shortest Supersequence](https://leetcode.com/problems/shortest-common-supersequence)
 - [Longest Repeating Subsequence](https://www.geeksforgeeks.org/longest-repeating-subsequence/)
+- [Shortest Uncommon Subsequence](https://www.geeksforgeeks.org/shortest-uncommon-subsequence/)
 
 ### 🎭Pattern matching variants
 - [Distinct Subsequences](https://www.geeksforgeeks.org/count-distinct-subsequences/)
