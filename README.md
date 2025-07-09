@@ -12,7 +12,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 
 # 📚 Table of Contents
 
-- [🐇 1D DP](#1d-dp)
+- [🧳 1D DP](#1d-dp)
 - [🧰 DP on Grids](#dp-on-grids)
 - [🧵 DP on Subsequences](#dp-on-subsequences)
 - [🎸 DP on Partitions](#dp-on-partitions)
@@ -21,7 +21,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 
 ---
 
-# 🐇1D DP
+# 🧳1D DP
 
 - [Fibonacci](https://www.spoj.com/problems/FIBEZ/)
 - [ACODE](https://www.spoj.com/problems/ACODE/)
