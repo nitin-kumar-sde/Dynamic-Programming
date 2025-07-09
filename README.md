@@ -122,6 +122,11 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 ---
 
 # 👑Additional Problems
+- [Hasan and Trip](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hasan-and-trip/)
+- [Vanya and GCD Array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/)
+- [BVAAN - Balika Vadhu and Alok Nath](https://www.spoj.com/problems/BVAAN/)
+- [PARTY - Party Schedule](https://www.spoj.com/problems/PARTY/)
+- [Prime XOR](https://www.hackerrank.com/challenges/prime-xor)
 
 
 ---
