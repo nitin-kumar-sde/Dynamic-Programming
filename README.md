@@ -83,7 +83,6 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Subsequences in given pattern](https://leetcode.com/problems/distinct-subsequences)
 - [Wildcard matching](https://leetcode.com/problems/wildcard-matching/)
 
-
 ## 🧬LIS variants
 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [Printing Longest Increasing Subsequence](https://www.geeksforgeeks.org/dsa/construction-of-longest-increasing-subsequence-using-dynamic-programming/)
@@ -100,6 +99,11 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
 - [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+
+## 🔩DP with front partitioning
+- [Egg Dropping Problem](https://leetcode.com/problems/super-egg-drop)
+- [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)
+- [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum)
 
 ---
 
