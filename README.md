@@ -18,7 +18,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [🎸 DP on Partitions](#dp-on-partitions)
 - [📊DP on Graphs](#dp-on-graphs)
 - [⌛DP on Bitmask](#dp-on-bitmask)
-- [👑Practise Problems](#additional-problems)
+- [👑Practise Problems](#practise-problems)
 
 ---
 
