@@ -15,7 +15,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [🧳 1D DP](#1d-dp)
 - [🧱 DP on Grids](#dp-on-grids)
 - [🧵 DP on Subsequences](#dp-on-subsequences)
-- [🎸 DP on Partitions](#dp-on-partitions)
+- [🎸 DP with Partitions](#dp-with-partitions)
 - [📊DP on Graphs](#dp-on-graphs)
 - [⌛DP on Bitmask](#dp-on-bitmask)
 - [👑Practise Problems](#practise-problems)
@@ -103,9 +103,13 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 
 ---
 
-# 🎸DP on Partitions
+# 🎸DP with Partitions
 
-> TBD
+- [Matrix Chain Multiplication](https://www.geeksforgeeks.org/dsa/matrix-chain-multiplication-dp-8/)
+- [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
+- [Burst Balloons](https://leetcode.com/problems/burst-balloons)
+- [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression)
+- [Scramble String](https://leetcode.com/problems/scramble-string)
 
 ---
 
