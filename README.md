@@ -127,6 +127,16 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [BVAAN - Balika Vadhu and Alok Nath](https://www.spoj.com/problems/BVAAN/)
 - [PARTY - Party Schedule](https://www.spoj.com/problems/PARTY/)
 - [Prime XOR](https://www.hackerrank.com/challenges/prime-xor)
+- [GNYR09F - Adjacent Bit Counts](https://www.spoj.com/TCW5C1/problems/GNYR09F/)
+- [Roy and Coin Boxes](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/roy-and-coin-boxes-1/)
+- [Jon Snow and his Favourite Number](https://codeforces.com/problemset/problem/768/C)
+- [Alyona and Spreadsheet](https://codeforces.com/problemset/problem/777/C)
+- [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2)
+- [MISERMAN - Wise And Miser](https://www.spoj.com/problems/MISERMAN/)
+- [MPILOT - Pilots](https://www.spoj.com/problems/MPILOT/)
+- [SQRBR - Square Brackets](https://www.spoj.com/problems/SQRBR/)
+- [Star Sky](https://codeforces.com/problemset/problem/835/C)
+- [Sonya puts the blocks in the Box](https://gautamdp.blogspot.com/2016/03/sonya-puts-blocks-in-box.html?view=timeslide)
 
 
 ---
