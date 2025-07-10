@@ -145,6 +145,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [SQRBR - Square Brackets](https://www.spoj.com/problems/SQRBR/)
 - [Star Sky](https://codeforces.com/problemset/problem/835/C)
 - [Sonya puts the blocks in the Box](https://gautamdp.blogspot.com/2016/03/sonya-puts-blocks-in-box.html?view=timeslide)
+- [Mixtures](https://www.naukri.com/code360/problems/mixtures_975356)
 
 
 ---
