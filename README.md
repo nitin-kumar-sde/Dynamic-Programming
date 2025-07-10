@@ -18,7 +18,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [🎸 DP on Partitions](#dp-on-partitions)
 - [📊DP on Graphs](#dp-on-graphs)
 - [⌛DP on Bitmask](#dp-on-bitmask)
-- [👑Additional Problems](#additional-problems)
+- [👑Practise Problems](#additional-problems)
 
 ---
 
@@ -121,7 +121,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 
 ---
 
-# 👑Additional Problems
+# 👑Practise Problems
 - [Hasan and Trip](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hasan-and-trip/)
 - [Vanya and GCD Array](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/vanya-and-gcd-array/)
 - [BVAAN - Balika Vadhu and Alok Nath](https://www.spoj.com/problems/BVAAN/)
