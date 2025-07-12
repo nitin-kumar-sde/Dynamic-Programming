@@ -125,7 +125,10 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 
 # ⌛DP on Bitmask
 
-> TBD
+- [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)
+- [ASSIGN - Assignments](https://www.spoj.com/problems/ASSIGN/)
+- [Braille's Dilemma](https://www.naukri.com/code360/problem-details/braille-s-dilemma_920550)
+
 
 ---
 
@@ -144,8 +147,8 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [MPILOT - Pilots](https://www.spoj.com/problems/MPILOT/)
 - [SQRBR - Square Brackets](https://www.spoj.com/problems/SQRBR/)
 - [Star Sky](https://codeforces.com/problemset/problem/835/C)
-- [Sonya puts the blocks in the Box](https://gautamdp.blogspot.com/2016/03/sonya-puts-blocks-in-box.html?view=timeslide)
 - [Mixtures](https://www.naukri.com/code360/problems/mixtures_975356)
+- [The Ghost Type](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/practice-problems/algorithm/the-ghost-type/)
 
 
 ---
