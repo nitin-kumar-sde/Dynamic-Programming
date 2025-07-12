@@ -128,6 +128,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)
 - [ASSIGN - Assignments](https://www.spoj.com/problems/ASSIGN/)
 - [Braille's Dilemma](https://www.naukri.com/code360/problem-details/braille-s-dilemma_920550)
+- [PERMUT1 - Permutations](https://www.spoj.com/problems/PERMUT1/)
 
 
 ---
