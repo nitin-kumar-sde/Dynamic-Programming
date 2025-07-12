@@ -18,6 +18,7 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [🎸 DP with Partitions](#dp-with-partitions)
 - [📊DP on Graphs](#dp-on-graphs)
 - [⌛DP on Bitmask](#dp-on-bitmask)
+- [🎨DP on Digits](#dp-on-digits)
 - [👑Practise Problems](#practise-problems)
 
 ---
@@ -130,6 +131,12 @@ Whether you're just starting out or looking to sharpen your DP skills for interv
 - [Braille's Dilemma](https://www.naukri.com/code360/problem-details/braille-s-dilemma_920550)
 - [PERMUT1 - Permutations](https://www.spoj.com/problems/PERMUT1/)
 
+
+---
+
+# 🎨DP on Digits
+- [Number of Digit One](https://leetcode.com/problems/number-of-digit-one)
+- [Count of Integers](https://leetcode.com/problems/count-of-integers)
 
 ---
 
